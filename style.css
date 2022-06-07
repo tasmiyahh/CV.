@@ -1,0 +1,37 @@
+body{
+    background-image: url(img/pexels-matheus-natan-3297593.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-size: large;
+}
+
+#heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color:#0066b2;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+#main{
+    width: 600px;
+    display: inline-block;
+    border-right: 5px solid #0066b2  ;
+}
+
+.fa-solid{
+    font-size: 30px;
+    color:#0066b2;
+}
+
+#obj{
+    font-size: large
+    ;
+}
+
+
+
